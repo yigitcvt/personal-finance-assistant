@@ -58,8 +58,8 @@ lib/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/personal_finance_assistant.git
-cd personal_finance_assistant
+git clone https://github.com/yigitcvt/personal-finance-assistant.git
+cd personal-finance-assistant
 
 # 2. Install dependencies
 flutter pub get
